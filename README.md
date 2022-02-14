@@ -1,6 +1,6 @@
 # app_cep
 
-App para conferir o cep
+App para conferir informações sobre um cep usando a API da viacep.com
 
 ## Getting Started
 
